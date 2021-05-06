@@ -1,6 +1,6 @@
 <b>KMLdata - Generate KML files with random coordinates and pins</b>
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/kmldata-generator/master/placemarks.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/kmldata/master/placemarks.png)
 
 KMLdata is a generator that makes easier the prcoess of creating KML files and exporting map content.
 The output that is printed each time is suitable for Google Maps/Earth.
